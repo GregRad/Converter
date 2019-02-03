@@ -1,2 +1,2 @@
 # Converter
-Simple unit converter
+Simple unit converter with calculator
